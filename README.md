@@ -38,13 +38,13 @@ Current robotic systems often treat visual segmentation as ground truth, ignorin
 More details are available in the final report (report.pdf) and poster made for this research porject (poster.pdf).
 
 ## How to Run
-1. Clone and Set Up
+1. Clone and Set Up:
 git clone https://github.com/your-username/robotic-needle-insertion.git
 
-2. Train the U-Net
+2. Train the U-Net:
 Run the notebook train.ipynb
 
-4. Run the Simulation Pipeline
+4. Run the Simulation Pipeline:
 run the notebook End_to_end.ipynb
 
 ## Source of the Data

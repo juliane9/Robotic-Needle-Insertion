@@ -35,6 +35,8 @@ Current robotic systems often treat visual segmentation as ground truth, ignorin
 - System consistently fused noisy estimates into stable world-frame targets
 - Trajectory simulation visualized with matplotlib in Python
 
+More details are available in the final report (report.pdf) and poster made for this research porject (poster.pdf).
+
 ## How to Run
 1. Clone and Set Up
 git clone https://github.com/your-username/robotic-needle-insertion.git

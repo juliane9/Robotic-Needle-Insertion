@@ -38,11 +38,9 @@ Current robotic systems often treat visual segmentation as ground truth, ignorin
 ## How to Run
 1. Clone and Set Up
 git clone https://github.com/your-username/robotic-needle-insertion.git
-cd robotic-needle-insertion
 
 2. Train the U-Net
-python train_unet.py
-And save the best weights 
+Run the notebook train.ipynb
 
 4. Run the Simulation Pipeline
 run the notebook end_to_end.ipynb

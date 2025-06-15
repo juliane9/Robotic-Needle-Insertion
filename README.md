@@ -42,7 +42,7 @@ cd robotic-needle-insertion
 
 2. Train the U-Net
 python train_unet.py
-Or skip this if using pretrained weights in models/.
+And save the best weights 
 
-3. Run the Simulation Pipeline
-notebooks/simulation.ipynb
+4. Run the Simulation Pipeline
+run the notebook end_to_end.ipynb

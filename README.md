@@ -49,4 +49,4 @@ run the notebook End_to_end.ipynb
 
 ## Source of the Data
 Kaggle Dataset - Ultrasound Nerve Segmentation 
-Available at: https:// www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=test
+Available at: https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data?select=test
